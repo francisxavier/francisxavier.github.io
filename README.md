@@ -43,6 +43,6 @@ RayWatch is a simple raytracer, developed by my brother, Angelo Rohit. He wrote 
 _Tags: C++, SDL_  
 
 **World Modeler Project**  
-[Source]() \| [flipCode.org IOTD](http://www.flipcode.com/archives/09-25-2003.shtml)  
+[Source](downloads/wmp_source.zip) \| [flipCode.org IOTD](http://www.flipcode.com/archives/09-25-2003.shtml)  
 This is something I did a long time ago, when I was just starting to learn programming. Source code is included, but it’s messy, so don’t expect anything great. Some things in the source may be of interest to those who are just starting out with graphics programming, like the BSP compiler which generates a BSP tree out of polygon soup. Or the light-mapping code which generates static light-maps for the world. The user can place lights with different properties (like color, radius, etc.) anywhere in the world and simple ray tracing is used to calculate the light-maps.  
 _Tags: VC++ 6.0, Visual Basic 6.0, Direct3D 7.0_  
