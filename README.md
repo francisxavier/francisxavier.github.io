@@ -1,6 +1,5 @@
-  
-[LinkedIn](https://www.linkedin.com/in/francisxavierjp/) | [Twitter](https://twitter.com/francisxavierjp)  
-  
+[LinkedIn](https://www.linkedin.com/in/francisxavierjp/) \| [Twitter](https://twitter.com/francisxavierjp)  
+
 ## Publications
 
 **ArrayView, StringView** (Dec 02, 2014)  
@@ -35,7 +34,7 @@ Frankie’s Quest is a short puzzle game with story elements.
 _Tags: C++, SDL, OpenGL, OpenAL, MinPSPW_  
 
 **Daabli**  
-[C++](http://daabli.sourceforge.net/) | [C#](http://daabli.codeplex.com/)  
+[C++](http://daabli.sourceforge.net/) \| [C#](http://daabli.codeplex.com/)  
 Daabli is a simple cross-platform deserialization framework for C++ and C#. It is designed to be as easy to use as possible and works with a 'C' style human editable format.  
 _Tags: C++, C#_  
 
@@ -44,6 +43,6 @@ RayWatch is a simple raytracer, developed by my brother, Angelo Rohit. He wrote 
 _Tags: C++, SDL_  
 
 **World Modeler Project**  
-[Source]() | [flipCode.org IOTD]()  
+[Source]() \| [flipCode.org IOTD]()  
 This is something I did a long time ago, when I was just starting to learn programming. Source code is included, but it’s messy, so don’t expect anything great. Some things in the source may be of interest to those who are just starting out with graphics programming, like the BSP compiler which generates a BSP tree out of polygon soup. Or the light-mapping code which generates static light-maps for the world. The user can place lights with different properties (like color, radius, etc.) anywhere in the world and simple ray tracing is used to calculate the light-maps.  
 _Tags: VC++ 6.0, Visual Basic 6.0, Direct3D 7.0_  
