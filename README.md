@@ -1,7 +1,7 @@
-# francis xavier's space
+# Francis Xavier's Space
 
-[linkedin](https://www.linkedin.com/in/francisxavierjp/)  
-[twitter](https://twitter.com/francisxavierjp)  
+[LinkedIn](https://www.linkedin.com/in/francisxavierjp/)  
+[Twitter](https://twitter.com/francisxavierjp)  
 
-[publications]  
-[projects]  
+[Publications]  
+[Projects]  
