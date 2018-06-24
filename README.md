@@ -1,4 +1,4 @@
-[LinkedIn](https://www.linkedin.com/in/francisxavierjp/) | [Twitter](https://twitter.com/francisxavierjp)
+[LinkedIn](https://www.linkedin.com/in/francisxavierjp/) | [Twitter](https://twitter.com/francisxavierjp)  
 
 ## Publications
 
