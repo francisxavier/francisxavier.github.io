@@ -14,7 +14,7 @@ A switch-like construct for custom objects to improve readability.
 [**A Type-safe Generic Pointer**](https://www.codeproject.com/Articles/159454/A-Type-safe-Generic-Pointer) (Aug 17, 2010)  
 A safer alternative to void*, any_ptr can point to any type of object and provide type-safe, const-correct access to it.  
 
-**A Simple C++ Object Loader** (Oct 06, 2009)  
+[**A Simple C++ Object Loader**](https://sourceforge.net/p/daabli/code/HEAD/tree/trunk/Docs/Guide%20I.pdf?format=raw) (Oct 06, 2009)  
 A guide to deserializing objects using Daabli. Demonstrates how easy it is to load objects, enumerations, pointers and STL containers using Daabli. Also discusses Daabli's flexible string conversion mechanism.  
 
 [**Super Factory**](https://www.codeproject.com/Articles/254722/Super-Factory) (Jul 17, 2009)  
