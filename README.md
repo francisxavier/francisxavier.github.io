@@ -2,6 +2,9 @@
 
 ## Publications
 
+[**Adapt Cast**](https://www.codeproject.com/Tips/1042460/Adapt-Cast) (Oct 29, 2015)  
+Enable passing an argument by reference, to a function which expects an argument of a different type.  
+
 [**ArrayView, StringView**](https://www.codeproject.com/Articles/848746/ArrayView-StringView) (Dec 02, 2014)  
 Immutable, non-owning, efficient views over all or part of existing arrays and strings.  
 
