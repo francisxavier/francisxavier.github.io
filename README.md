@@ -2,25 +2,25 @@
 
 ## Publications
 
-**ArrayView, StringView** (Dec 02, 2014)  
+[**ArrayView, StringView**](https://www.codeproject.com/Articles/848746/ArrayView-StringView) (Dec 02, 2014)  
 Immutable, non-owning, efficient views over all or part of existing arrays and strings.  
 
-**Switching on custom objects** (Nov 14, 2014)  
+[**Switching on custom objects**](https://www.codeproject.com/Tips/842266/Switch-custom-object) (Nov 14, 2014)  
 A switch-like construct for custom objects to improve readability.  
 
-**A Type-safe Generic Pointer** (Aug 17, 2010)  
+[**A Type-safe Generic Pointer**](https://www.codeproject.com/Articles/159454/A-Type-safe-Generic-Pointer) (Aug 17, 2010)  
 A safer alternative to void*, any_ptr can point to any type of object and provide type-safe, const-correct access to it.  
 
 **A Simple C++ Object Loader** (Oct 06, 2009)  
 A guide to deserializing objects using Daabli. Demonstrates how easy it is to load objects, enumerations, pointers and STL containers using Daabli. Also discusses Daabli's flexible string conversion mechanism.  
 
-**Super Factory** (Jul 17, 2009)  
+[**Super Factory**](https://www.codeproject.com/Articles/254722/Super-Factory) (Jul 17, 2009)  
 A single unified interface for creating (almost) any kind of object in C++.  
 
-**Stringizing C++ Enums** (Oct 25, 2008)  
+[**Stringizing C++ Enums**](https://www.codeproject.com/Articles/42035/Enum-to-String-and-Vice-Versa-in-C) (Oct 25, 2008)  
 A simple method to convert a C++ enumeration to its equivalent string representation and vice versa.  
 
-**Sealing Classes in C++** (Nov 19, 2007)  
+[**Sealing Classes in C++**](https://www.codeproject.com/Articles/42021/Sealing-Classes-in-C) (Nov 19, 2007)  
 A method to create sealed classes in C++.  
 
 ## Projects
@@ -43,6 +43,6 @@ RayWatch is a simple raytracer, developed by my brother, Angelo Rohit. He wrote 
 _Tags: C++, SDL_  
 
 **World Modeler Project**  
-[Source]() \| [flipCode.org IOTD]()  
+[Source]() \| [flipCode.org IOTD](http://www.flipcode.com/archives/09-25-2003.shtml)  
 This is something I did a long time ago, when I was just starting to learn programming. Source code is included, but it’s messy, so don’t expect anything great. Some things in the source may be of interest to those who are just starting out with graphics programming, like the BSP compiler which generates a BSP tree out of polygon soup. Or the light-mapping code which generates static light-maps for the world. The user can place lights with different properties (like color, radius, etc.) anywhere in the world and simple ray tracing is used to calculate the light-maps.  
 _Tags: VC++ 6.0, Visual Basic 6.0, Direct3D 7.0_  
