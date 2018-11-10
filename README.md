@@ -1,6 +1,6 @@
 # [Francis Xavier Pulikotil](https://francisxavier.github.io/)
 
-[LinkedIn](https://www.linkedin.com/in/francisxavierjp/) \| [Twitter](https://twitter.com/francisxavierjp)  
+[LinkedIn](https://www.linkedin.com/in/francisxavierjp/) \| [Twitter](https://twitter.com/francisxavierjp) \| [Instagram](https://www.instagram.com/francisxavierjp)  
 
 ## Publications
 
