@@ -31,7 +31,7 @@ A method to create sealed classes in C++.
 # Projects
 
 ## [B-Gen](http://bgengame.blogspot.com/)
-A music-based game that uses music from Nine Inch Nails’ popular album - The Slip. _(C++, SDL, OpenGL, OpenAL)_
+A music-based game that uses music from Nine Inch Nails’ album - The Slip. _(C++, SDL, OpenGL, OpenAL)_
 
 <img src="images/bgen.png" alt="B-Gen title screen">
 
