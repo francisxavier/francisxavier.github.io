@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/francisxavierjp/) \| [Twitter](https://twitter.com/francisxavierjp) \| [Instagram](https://www.instagram.com/francisxavierjp)  
 
-## Publications
+# Publications
 
 [**Adapt Cast**](https://www.codeproject.com/Tips/1042460/Adapt-Cast) (Oct 29, 2015)  
 Enable passing an argument by reference, to a function which expects an argument of a different type.  
@@ -28,26 +28,31 @@ A simple method to convert a C++ enumeration to its equivalent string representa
 [**Sealing Classes in C++**](https://www.codeproject.com/Articles/42021/Sealing-Classes-in-C) (Nov 19, 2007)  
 A method to create sealed classes in C++.  
 
-## Projects
+# Projects
 
-[**B-Gen**](http://bgengame.blogspot.com/)  
-B-Gen is a music-based game that uses music from Nine Inch Nails’ popular album - The Slip.  
-_Tags: C++, SDL, OpenGL, OpenAL_  
+## [B-Gen](http://bgengame.blogspot.com/)
+A music-based game that uses music from Nine Inch Nails’ popular album - The Slip. _(C++, SDL, OpenGL, OpenAL)_
 
-[**Frankie's Quest**](http://frankiesquest.blogspot.com/)  
-Frankie’s Quest is a short puzzle game with story elements.  
-_Tags: C++, SDL, OpenGL, OpenAL, MinPSPW_  
+<img src="images/bgen.png" alt="B-Gen title screen">
 
-**Daabli**  
+## [Frankie's Quest](http://frankiesquest.blogspot.com/)
+A short puzzle game with story elements. _(C++, SDL, OpenGL, OpenAL, MinPSPW)_
+
+<img src="images/frankiesquest.jpg" alt="Frankie's Quest banner">
+
+## Daabli
 [C++](http://daabli.sourceforge.net/) \| [C#](http://daabli.codeplex.com/)  
-Daabli is a simple cross-platform deserialization framework for C++ and C#. It is designed to be as easy to use as possible and works with a 'C' style human editable format.  
-_Tags: C++, C#_  
+A simple cross-platform deserialization framework for C++ and C#.
 
-[**RayWatch**](http://sourceforge.net/projects/raywatch/)  
-RayWatch is a simple raytracer, developed by my brother, Angelo Rohit. He wrote it in (OS-portable) C++, for educational purposes. It uses SDL for loading images (textures). The source code is written for clarity (not performance), is Object Oriented, and is released under the GPL license.  
-_Tags: C++, SDL_  
+<img src="images/daabli_logo.jpg" alt="Daabli logo">
 
-**World Modeler Project**  
+## [RayWatch](http://sourceforge.net/projects/raywatch/)
+A simple raytracer written by my brother, Angelo Rohit, for educational purposes. _(C++, SDL)_
+
+<img src="images/raywatch.jpg" alt="Raywatch sample render" width="320">
+
+## World Modeler Project
 [Source](downloads/wmp_source.zip) \| [flipCode.org IOTD](http://www.flipcode.com/archives/09-25-2003.shtml)  
-This is something I did a long time ago, when I was just starting to learn programming. Source code is included, but it’s messy, so don’t expect anything great. Some things in the source may be of interest to those who are just starting out with graphics programming, like the BSP compiler which generates a BSP tree out of polygon soup. Or the light-mapping code which generates static light-maps for the world. The user can place lights with different properties (like color, radius, etc.) anywhere in the world and simple ray tracing is used to calculate the light-maps.  
-_Tags: VC++ 6.0, Visual Basic 6.0, Direct3D 7.0_  
+Something I did a long time ago, back when I was learning graphics programming. Some things of interest in the source: BSP tree generation from polygon soup; static light-map generation using ray-tracing. _(VC++ 6.0, Visual Basic 6.0, Direct3D 7.0)_
+
+<img src="images/wmp.jpg" alt="World Modeler Project screenshot" width="320">
